@@ -1,0 +1,20 @@
+﻿# Cytosine coordinate file. Aligned to match backboneBase coordinates when instantiated. 
+1    N1	-0.02970    0.15072 -0.08856
+2    C2	-0.04955    0.21526 -0.08301
+3    O2	-0.04317    0.24281 -0.02824
+4    N3	-0.07447    0.24696 -0.13643
+5    C4	-0.08021    0.21562 -0.19507
+6    N4	-0.10325    0.24925 -0.24989
+7    C5	-0.06076    0.14922 -0.20248
+8    C6	-0.03481    0.11637 -0.14695
+
+# Format: Order (single/double), from atom index, to atom index
+BONDS
+1,1,2
+2,2,3
+1,2,4
+2,4,5
+1,5,6
+1,5,7
+2,7,8
+1,8,1

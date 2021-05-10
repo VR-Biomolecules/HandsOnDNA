@@ -1,0 +1,13 @@
+﻿# Phosphate atom coordinates. They align with the Sugar coordinates so the C3'-O3' is aligned with the positive z-axis
+1   P   0.06793 -0.09145    -0.18027
+2   OP1 0.08488 -0.15498    -0.14564
+3   OP2 0.01362 -0.08980    -0.23094
+4   O5' 0.04967 -0.03801    -0.12435
+5   O3'	0.12903 -0.03884    -0.21382
+
+# Format: Order (single/double), from atom index, to atom index
+BONDS
+1,1,2
+1,1,3
+1,1,4
+1,1,5

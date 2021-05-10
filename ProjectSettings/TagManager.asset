@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - atom
+  - bond
+  - small interactable
+  - container
+  - projectile
+  - FxTemporaire
+  - VDW
+  - BAS
+  - CRT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - NoLight
+  - Infront
+  - InfrontNoLight
+  - VDW atoms1
+  - VDW atoms2
+  - Whiteboard
+  - Tissue Layer2
+  - DoubleHelix
+  - Atom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

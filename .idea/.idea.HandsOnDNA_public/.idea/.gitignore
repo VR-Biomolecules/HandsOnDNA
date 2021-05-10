@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.HandsOnDNA_public.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\sdun067\Unity Projects\HandsOnDNA_public\.idea\.idea.HandsOnDNA_public\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

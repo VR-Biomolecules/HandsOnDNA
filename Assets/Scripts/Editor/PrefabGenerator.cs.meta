@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 3ec48841758316a4b83f8f438125eec7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - atomPf: {fileID: 1238015841260596354, guid: 9b5fed09aff8dbf4a9d3853ea17b8733,
+      type: 3}
+  - singleBondPf: {fileID: 8898376964984604359, guid: 07e6667d48ea6024aa819333e13d85ed,
+      type: 3}
+  - doubleBondPf: {fileID: 2912003278605534466, guid: 098db4d6d3012b342826725c13067f30,
+      type: 3}
+  - bondColliderPf: {fileID: 2405934997468298150, guid: 401e5e2a495cf364a81389174a3ef75e,
+      type: 3}
+  - emptySugarPf: {fileID: 6902932188676060248, guid: 6ba62be7a818ff449bedb7d84fef7b37,
+      type: 3}
+  - emptyPhosphatePf: {fileID: 5436703603365719129, guid: 86c40146b8b37aa45828fb038dfaa100,
+      type: 3}
+  - emptyNBasePf: {fileID: 6308203324676296176, guid: 2d61dda3694279545b4a6ec74549646c,
+      type: 3}
+  - dnaStrandPf: {fileID: 1522098288229006750, guid: 4b2e04166d7604a43a23d684577c7f81,
+      type: 3}
+  - dnaHelixPf: {fileID: 8387946619515215420, guid: f758b67736586c24d808fbcc8d87dca9,
+      type: 3}
+  - carbonMat: {fileID: 2100000, guid: fe13633b0aace6641a293f08681e93f5, type: 2}
+  - hydrogenMat: {fileID: 2100000, guid: 91dba66ca735d904499b4bbd3388aef7, type: 2}
+  - nitrogenMat: {fileID: 2100000, guid: 4bd4679ba78bc8d4abc311f1c35943d0, type: 2}
+  - oxygenMat: {fileID: 2100000, guid: 61b3e939155abc54d92b75ad9c4b11a0, type: 2}
+  - phosphorusMat: {fileID: 2100000, guid: 7fe2cefcde8c31745bad7c6ddf24de99, type: 2}
+  - sulfurMat: {fileID: 2100000, guid: 25c110f5f5b11934a95ee552e49f30af, type: 2}
+  - unknownMat: {fileID: 2100000, guid: 494b0035c3352ce44be6e33e49005632, type: 2}
+  - ballAndStickPose: {fileID: 11400000, guid: c670d30ae93a98a4991b024ffcc9f640, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

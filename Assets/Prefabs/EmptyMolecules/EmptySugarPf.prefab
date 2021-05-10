@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6902932188676060248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1680229948308004490}
+  - component: {fileID: 7426400420147585240}
+  - component: {fileID: 1995089899791644646}
+  m_Layer: 0
+  m_Name: EmptySugarPf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1680229948308004490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6902932188676060248}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7426400420147585240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6902932188676060248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e401b67aad06b1241a45d2437fe0c512, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  atoms: []
+  bonds: []
+  ModelType: 0
+  C5Carbon: {fileID: 0}
+  fivePrimeBond: {fileID: 0}
+  fivePrimePhosphate: {fileID: 0}
+  C3Carbon: {fileID: 0}
+  threePrimeBond: {fileID: 0}
+  threePrimePhosphate: {fileID: 0}
+  C1Carbon: {fileID: 0}
+  GBond: {fileID: 0}
+  NBase: {fileID: 0}
+--- !u!114 &1995089899791644646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6902932188676060248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe0601d22d41a8441900cf1c56000487, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  managedMol: {fileID: 7426400420147585240}
+  hands: []
+  maxPosDiff: 0.1
+  maxRotDiff: 60
