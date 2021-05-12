@@ -5,7 +5,7 @@ A learning and outreach tool that uses Virtual Reality to teach about DNA.
 ![Lab Image](Media/promopic2.png)
 ![DNA Image](Media/promopic1.png)
 
-Hands-On DNA is a VR learning tool built to teach first year university students about DNA sturcture and scale. 
+Hands-On DNA is a VR learning tool built to teach first year university students about DNA sturcture and scale. There are two versions available [in the latest release](https://github.com/VR-Biomolecules/HandsOnDNA/releases/tag/v1.0): a full version that includes learning exercises about the DNA, and an abridged outreach version that assumes no prior biochemistry knowledge. 
 
 Designed by Sebastian Dunn and built by Sebastian Dunn, Dominik Lange-Nawka, and Samuel Thompson, this project is distributed under the GNU General Public License v3.0.
 
