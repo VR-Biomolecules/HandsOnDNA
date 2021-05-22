@@ -25,7 +25,7 @@ This project was designed by Sebastian Dunn and developed by him, Dominik Lange-
 You can download and play Hand-On DNA from [our latest release](https://github.com/VR-Biomolecules/HandsOnDNA/releases/tag/v1.0). There are two different version of Hand-On DNA available.
 
 ### Hands-On DNA (Full)
-The original experience aimed at Stage 1 tertairy biology students. This version assumes some level of high school chemistry and biology knowledge, takes 20-30 minutes to complete, and includes all 5 leanring exercises in the Cell scene. 
+The original experience aimed at Stage 1 tertairy biology students. This version assumes some level of high school chemistry and biology knowledge, takes 20-30 minutes to complete, and includes all 5 learning exercises in the Cell scene. 
 
 ### Hands-On DNA (Abridged)
 An outreach version of Hands-On DNA that can be played by anyone. This version assumes no knowledge of chemistry or biology and takes 5-10 minutes to complete. It has the full Lab scene and a shorter version of the Cell scene where players can smash up the DNA with a baseball bat and try to find the subunits in the fastest time. 
