@@ -4,7 +4,7 @@ A learning and outreach tool that teaches about DNA in Virtual Reality.
 
 Explore the Lab            |  Pick up DNA
 :-------------------------:|:-------------------------:
-![Lab Image](Media/InsideTheLab.png)  |  ![DNA Image](Media/HoldDna.png)
+![Lab Image](Media/InsideTheLab.jpeg)  |  ![DNA Image](Media/HoldDna.jpeg)
 
 ## What is it?
 Hands-On DNA is a VR learning experience built to teach Stage 1 university students about DNA. The module uses the unique advantages of VR to help students learn the scale and 3D structure of DNA. The experience takes 20-30 minutes to run through and can be played on any Oculus Rift, HTC Vive, or Oculus Quest (with link cable) headset connected to a VR-ready Windows computer. 
