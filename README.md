@@ -4,7 +4,7 @@ A learning and outreach tool that teaches about DNA in Virtual Reality.
 
 Explore the Lab            |  Pick up DNA
 :-------------------------:|:-------------------------:
-![Lab Image](Media/promopic2.png)  |  ![DNA Image](Media/promopic1.png)
+![Lab Image](Media/InsideTheLab.png)  |  ![DNA Image](Media/HoldDna.png)
 
 ## What is it?
 Hands-On DNA is a VR learning experience built to teach Stage 1 university students about DNA. The module uses the unique advantages of VR to help students learn the scale and 3D structure of DNA. The experience takes 20-30 minutes to run through and can be played on any Oculus Rift, HTC Vive, or Oculus Quest (with link cable) headset connected to a VR-ready Windows computer. 
@@ -68,14 +68,14 @@ Hands-On DNA, in its standalone Full or Abridged versions, as well as source cod
 
 Unity tubular is distributed under the [MIT License](https://github.com/mattatz/unity-tubular/blob/master/LICENSE).
 
-Distributed under CCBY 3.0 (https://creativecommons.org/licenses/by/3.0/):
+Distributed under [CCBY 3.0](https://creativecommons.org/licenses/by/3.0/):
 * Bond break - "Pop, Low, A (H1).wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
 * Bond make - “Pop.wav” by yottasounds (https://freesound.org/people/yottasounds/) of Freesound.org 
 
-Distributed under CCBY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/):
+Distributed under [CCBY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/):
 * Crowd Cheering - “06684 children hooray joy shout.WAV” by FxProSound (https://www.facebook.com/fxprosound/) accessed via Freesound.org
 
-Distributed under CCBY-NC 4.0 (https://creativecommons.org/licenses/by/4.0/):
+Distributed under [CCBY-NC 4.0](https://creativecommons.org/licenses/by/4.0/):
 * DNA Subunit summary image, modified and accessed from OpenStax.com.
     * Authors: Connie Rye, Robert Wise, Vladimir Jurukovski, Jean DeSaix, Jung Choi, Yael Avissar
     * Publisher/website: OpenStax
