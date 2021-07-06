@@ -6,8 +6,13 @@ Explore the Lab            |  Pick up DNA
 :-------------------------:|:-------------------------:
 ![Lab Image](Media/InsideTheLab.jpeg)  |  ![DNA Image](Media/HoldDna.jpeg)
 
+## Video links:
+[Shrinking to DNA size](https://www.youtube.com/watch?v=B_JawnAVQHE&t=22s)
+
+[Hands-on learning about DNA](https://www.youtube.com/watch?v=hsOpS64tbBs)
+
 ## What is it?
-Hands-On DNA is a VR learning experience built to teach Stage 1 university students about DNA. The module uses the unique advantages of VR to help students learn the scale and 3D structure of DNA. The experience takes 20-30 minutes to run through and can be played on any Oculus Rift, HTC Vive, or Oculus Quest (with link cable) headset connected to a VR-ready Windows computer. 
+Hands-On DNA is a VR learning experience built to teach students about DNA. The module uses the unique advantages of VR to help students learn the scale and 3D structure of DNA. The experience takes 20-30 minutes to run through and can be played on any Oculus Rift, HTC Vive, or Oculus Quest (with link cable) headset connected to a VR-ready Windows computer. 
 
 The experience is split into two major scenes:
 1. The Lab. The students starts in a laboratory environment where they can explore and pick up objects. When they choose to continue they experience shrinking from normal size down to atomic size. There are stops at 100x and 10,000x scale, before finally the student descends into a cell nucleus on a microscope slide. 
