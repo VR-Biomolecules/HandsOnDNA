@@ -92,6 +92,8 @@ Distributed under [CCBY-NC 4.0](https://creativecommons.org/licenses/by/4.0/):
     * Section URL: https://openstax.org/books/biology/pages/3-5-nucleic-acids
 
 Distributed under purchased Adobe Stock [Standard Licences](https://stock.adobe.com/nz/license-terms#standardLicenses):
-* [Sample Surgery structure heart of the pig for classroom education.](https://stock.adobe.com/nz/images/sample-surgery-structure-heart-of-the-pig-for-classroom-education/190240541)
-* [Heart muscle, light micrograph. Striated cardiac muscle cells myocytes. Light microscopy, hematoxilin and eosin stain, magnification 200x](https://stock.adobe.com/nz/images/heart-muscle-light-micrograph-striated-cardiac-muscle-cells-myocytes-light-microscopy-hematoxilin-and-eosin-stain-magnification-200x/121794343)
+* Heart muscle slide image - [Sample Surgery structure heart of the pig for classroom education.](https://stock.adobe.com/nz/images/sample-surgery-structure-heart-of-the-pig-for-classroom-education/190240541)
+* Heart muscle cell image - [Heart muscle, light micrograph. Striated cardiac muscle cells myocytes. Light microscopy, hematoxilin and eosin stain, magnification 200x](https://stock.adobe.com/nz/images/heart-muscle-light-micrograph-striated-cardiac-muscle-cells-myocytes-light-microscopy-hematoxilin-and-eosin-stain-magnification-200x/121794343)
+
+Any image or asset not explicitly mentioned in this list was created by the development team or disributed under [CCO 1.0 (Universal)](https://creativecommons.org/publicdomain/zero/1.0/).
 
